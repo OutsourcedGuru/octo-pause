@@ -1,0 +1,31 @@
+{
+  "name": "octo-pause",
+  "version": "1.0.1",
+  "description": "A Node.js-based CLI for pausing an OctoPrint printer locally as a service",
+  "main": "octo-pause",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OutsourcedGuru/octo-pause.git"
+  },
+  "keywords": [
+    "octoprint",
+    "octopi",
+    "node-js",
+    "node",
+    "javascript",
+    "3d-printer"
+  ],
+  "author": "OutsourcedGuru <support@outsourced.guru> (https://github.com/OutsourcedGuru)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/OutsourcedGuru/octo-pause/issues"
+  },
+  "homepage": "https://github.com/OutsourcedGuru/octo-pause#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "octo-client": "^1.1.1"
+  }
+}
