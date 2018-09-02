@@ -1,5 +1,5 @@
 # octo-pause
-A Node.js-based CLI for pausing an OctoPrint printer locally as a service
+A Node.js-based service for pausing an OctoPrint printer locally
 
 > **Node.js** is an open-source, cross-platform JavaScript run-time environment that executes JavaScript code server-side.
 >
