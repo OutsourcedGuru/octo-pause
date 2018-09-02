@@ -16,7 +16,7 @@ This service runs in conjunction with the IFTTT-Dash-Button project. It's a simp
 3. `git clone https://github.com/OutsourcedGuru/octo-pause.git`
 4. `cd octo-pause && npm install`
 5. `chmod a+x octo-pause`
-5. `npm start`
+5. `./octo-pause`
 
 You will likely want to make this startup persistently on bootup by adding it to rc.boot, for example.
 
