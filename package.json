@@ -1,6 +1,6 @@
 {
   "name": "octo-pause",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A Node.js-based CLI for pausing an OctoPrint printer locally as a service",
   "main": "octo-pause",
   "scripts": {

@@ -1,7 +1,6 @@
 #!/usr/bin/env node
 
 var config =     require('./node_modules/octo-client/config.js');
-var debug =      require('debug')('brb:server');
 var express =    require('express');
 var http =       require('http');
 var OctoPrint =  require('octo-client');
